@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN",
+  "public_relations_messages": {
+    "listen_channel": "CHANNEL_ID",
+    "announcements_channel": "CHANNEL_ID"
+  },
+  "manage_bot_channel": "CHANNEL_ID",
+  "reaction_roles": {}
+}
